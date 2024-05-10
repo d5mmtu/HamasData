@@ -1,4 +1,4 @@
-NOTE: for security reasons, the long "Reference Document" has been deleted.
+(10/05/24) NOTE: for security reasons, the long "Reference Document" has been deleted.
 
 The Reference Document has not been updated for some time now. Recent focus has been on:
 

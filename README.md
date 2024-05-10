@@ -6,4 +6,4 @@ The Reference Document has not been updated for some time now. Recent focus has 
 
 (3) Performance of financial markets over the period - TASE and US-listed ETFs ISRA and EIS (incl. capital flows as well as prices). These indicators provide more concrete, informed perspectives on the conflict than journalists, academics etc. The recovery since October suggests markets initially factored in a high probability of a regional conflict, but this possibility retreated during October and did not significantly increase even with the Israel-Iran missile exchanges. US Naval activity in the Mediterranean was highly correlated with market movements, suggesting US deterrence was effective.
 
-I am also interested in quantifying social media activity but do not have much experience/knowledge on how to do this. I have attended cultural economics conferences where this was discussed but never paid much attention.
+I am also interested in quantifying social media activity but do not have much experience/knowledge on how to do this.

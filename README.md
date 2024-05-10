@@ -1,4 +1,4 @@
-The Reference Document has not been updated for some time now. Recent focus has been on
+The Reference Document has not been updated for some time now. Recent focus has been on:
 
 (1) UNRWA data, expanding good work done by Mark Zlochin. I have more expansive UNRWA-data projections of casualties in the Gaza strip in 2023. Numerical simulations yield extremely high variance estimates, but these are likely still more accurate than MoH fabrications. Likely deaths for 2023 are actually higher than announced by MoH/GMO, but contain large numbers of Hamas fighters. Approx: 15k civilians, 10k Hamas. 1.5:1 Civ:Mil ratio. This would have improved in 2024. I should emphasise that these are all *extremely* low confidence estimates based on numerical simulations that yield large confidence intervals. The modelling itself is based on significant assumptions.
 
